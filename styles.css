@@ -9,7 +9,7 @@ body
 {
    background-color: darkgray;
 
-   background: url("background/image-9.jpg") no-repeat center fixed; 
+   background: url("image-9.jpg") no-repeat center fixed; 
    background-size: cover;
 }
 
