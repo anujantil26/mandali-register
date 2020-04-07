@@ -1,0 +1,227 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+
+
+body
+{
+   background-color: darkgray;
+
+   background: url("background/image-9.jpg") no-repeat center fixed; 
+   background-size: cover;
+}
+
+.first-container
+{
+    width:70%;
+     
+    
+
+    height:500px;
+    
+    
+    margin-left:60px;
+    position:relative;
+    top:100px;
+
+
+    
+   
+}
+
+
+
+.main-container
+{
+    height:650px;
+
+
+    width: 50%;
+      
+
+
+    background-color: cornsilk;
+
+
+    border:solid;
+
+    margin-top:20px;
+
+    margin-left:100px;
+
+    border-radius: 20px;
+
+    
+
+
+}
+
+
+.button
+{
+    margin-bottom:20px;
+    
+    margin-left:130px;
+
+    font-family: 'Satisfy', cursive;
+
+    border:solid;
+
+    border-color : black 2px;
+    padding:10px;
+
+    border-radius:  16px;
+
+    background-color: darkblue;
+
+    color:white;
+    
+}
+
+
+.h1
+{
+    padding-bottom : 30px;
+    font-family: 'Merriweather', serif;
+
+    text-decoration : underline;
+}
+
+
+
+.name
+{
+    width:400px;
+    height: 25px;
+
+    margin-bottom: 15px;
+
+    font-size:15px;
+
+    border-color:black ;
+}
+
+.email_id
+{
+    height: 25px;
+    width:400px; 
+    margin-bottom : 15px;
+
+
+    font-size:15px;
+    border-color:black ;
+
+}
+
+.password
+{
+    width:400px;
+    height: 25px;
+
+    margin-bottom : 15px;
+
+    font-size:15px;
+
+    border-color:black ;
+}
+.submit
+{
+    width:400px;
+    height:30px;
+    margin-bottom:20px;
+    
+    text-align:center;
+
+    
+
+    border-color:black ;
+
+    background-color: lightyellow;
+
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+.hr1
+{
+    display: inline-block;
+    width:20%;
+    margin-top:20px;
+
+    margin-left:90px;
+}
+
+.span
+{
+    font-size:22px;
+
+    position:relative;
+
+    top:5px
+}
+
+.hr2
+{
+    width:20%;
+    display : inline-block; 
+}
+
+.forgot 
+{
+    margin-left:150px;
+      color: black;
+}
+
+.create
+{
+    
+
+    margin-top: 20px;
+
+    position:relative;
+    top:20px;
+
+    border:solid;
+
+    border-color:black;
+    border-width:1px;
+    padding-left:135px;
+    padding-right:135px;
+
+    padding-bottom:10px;
+
+    color:black;
+
+}
+
+a
+{
+    color :  white;
+    font-size:20px;
+}
+
+
+.second-container
+{
+    position:absolute;
+
+    
+
+    right:80px;
+
+
+    top:300px;
+
+    color: #ffd31d;
+
+}
+
+.heading-1
+{
+    margin-top:20px;
+
+    font-family: Merriweather sans;
+}
+
